@@ -1,0 +1,58 @@
+image size.x size.y position.x position.y int_rect.left int_rect.top int_rect.width int_rect.height
+./sprite/D_NB_No_Shadows.png 100.0f 200.0f 10 640 285 73  // golgrass
+./sprite/D_NB_No_Shadows.png 800.0f 200.0f 10 40 245 150 //gross labe dar as chap
+./sprite/D_NB_No_Shadows.png 1000.0f 200.0f 50 40 205 150
+./sprite/D_NB_No_Shadows.png 1200.0f 200.0f 50 40 205 150
+./sprite/D_NB_No_Shadows.png 1400.0f 200.0f 50 40 205 150 // grass
+./sprite/D_NB_No_Shadows.png 1600.0f 200.0f 50 40 245 150
+./sprite/D_NB_No_Shadows.png 000.0f 575.0f 10 40 245 150
+./sprite/D_NB_No_Shadows.png 200.0f 575.0f 50 40 205 150
+./sprite/D_NB_No_Shadows.png 400.0f 575.0f 50 40 205 150 // grass
+./sprite/D_NB_No_Shadows.png 600.0f 575.0f 50 40 245 150
+
+./sprite/D_NB_No_Shadows.png 1300.0f 575.0f 10 40 245 150 
+./sprite/D_NB_No_Shadows.png 1500.0f 575.0f 50 40 205 150
+./sprite/D_NB_No_Shadows.png 1700.0f 575.0f 50 40 205 150
+./sprite/D_NB_No_Shadows.png 1900.0f 575.0f 50 40 205 150
+./sprite/D_NB_No_Shadows.png 2100.0f 575.0f 50 40 245 150
+./sprite/D_NB_No_Shadows.png 2100.0f 355.0f 775 560 185 220 /// ghahvei sade// ./sprite/813EEF_prev_ui.png 20.0f 10.0f 900.0f 450.0f 10 10 185 185 /////
+
+./sprite/D_NB_No_Shadows.png 550.0f 875.0f 10 40 245 150  // radif 2
+./sprite/D_NB_No_Shadows.png 750.0f 875.0f 50 40 205 150
+./sprite/D_NB_No_Shadows.png 950.0f 875.0f 50 40 205 150
+./sprite/D_NB_No_Shadows.png 1150.0f 875.0f 50 40 205 150
+./sprite/D_NB_No_Shadows.png 1350.0f 875.0f 50 40 205 150
+./sprite/D_NB_No_Shadows.png 1550.0f 875.0f 50 40 245 150
+
+./sprite/D_NB_No_Shadows.png 0.0f 1275.0f 10 40 245 150 
+./sprite/D_NB_No_Shadows.png 200.0f 1275.0f 50 40 205 150
+./sprite/D_NB_No_Shadows.png 400.0f 1275.0f 50 40 205 150
+./sprite/D_NB_No_Shadows.png 600.0f 1275.0f 50 40 205 150
+./sprite/D_NB_No_Shadows.png 800.0f 1275.0f 50 40 245 150
+
+./sprite/D_NB_No_Shadows.png 1300.0f 1275.0f 10 40 245 150 
+./sprite/D_NB_No_Shadows.png 1500.0f 1275.0f 50 40 205 150
+./sprite/D_NB_No_Shadows.png 1700.0f 1275.0f 50 40 205 150
+./sprite/D_NB_No_Shadows.png 1900.0f 1275.0f 50 40 205 150
+./sprite/D_NB_No_Shadows.png 2100.0f 1275.0f 50 40 245 150
+./sprite/D_NB_No_Shadows.png 0.0f 1055.0f 775 560 185 220 /// ghahvei sade// ./sprite/813EEF_prev_ui.png 20.0f 10.0f 900.0f 450.0f 10 10 185 185 /////
+
+./sprite/D_NB_No_Shadows.png 0.0f 1425.0f 10 120 245 100 
+./sprite/D_NB_No_Shadows.png 200.0f 1425.0f 50 120 205 100
+./sprite/D_NB_No_Shadows.png 400.0f 1425.0f 50 120 205 100
+./sprite/D_NB_No_Shadows.png 600.0f 1425.0f 50 120 205 100
+./sprite/D_NB_No_Shadows.png 800.0f 1425.0f 50 120 205 100
+./sprite/D_NB_No_Shadows.png 1000.0f 1425.0f 50 120 205 100
+./sprite/D_NB_No_Shadows.png 1200.0f 1425.0f 50 120 205 100
+./sprite/D_NB_No_Shadows.png 1400.0f 1425.0f 50 120 205 100
+./sprite/D_NB_No_Shadows.png 1600.0f 1425.0f 50 120 205 100
+./sprite/D_NB_No_Shadows.png 1800.0f 1425.0f 50 120 205 100
+./sprite/D_NB_No_Shadows.png 1900.0f 1425.0f 50 120 205 100
+./sprite/D_NB_No_Shadows.png 2100.0f 1425.0f 50 120 245 100
+
+./sprite/D_NB_No_Shadows.png 2100.0f 900.0f 355 530 195 180 //siahaha BALA
+./sprite/D_NB_No_Shadows.png 2100.0f 1150.0f 455 800 195 125 // SIAH PAIN
+
+./sprite/D_NB_No_Shadows.png 500.0f -250.0f 50 500 215 100     /////// zamin sade
+./sprite/D_NB_No_Shadows.png -300.0f 850.0f 50 500 215 100     /////// zamin sade
+./sprite/D_NB_No_Shadows.png 143.0f 272.0f 58 715 185 1200 ./sprite/Gate_B_3.png 400.0f 200.0f 1700.0f 600.0f 100 40 300 300 deras divar ghahvei
