@@ -24,25 +24,4 @@ public:
     bool validate_node(const vector<string>& selected_features);
 };
 
-
-class MandatoryNode : public FeatureNode {
-public:
-    MandatoryNode(const string& name);
-};
-
-class OptionalNode : public FeatureNode {
-public:
-    OptionalNode(const string& name);
-};
-
-class OrNode : public FeatureNode {
-public:
-    OrNode(const string& name);
-};
-
-class XorNode : public FeatureNode {
-public:
-    XorNode(const string& name);
-};
-
-#endif // FEATURE_NODE_H
+#endif

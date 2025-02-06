@@ -1,0 +1,88 @@
+ leabE=YXk | orj  |khDCr  
+YXk=Dz|bb
+orj =w
+#
+ {   w,    khDCr   ,  YXk   ,bb,  orj    ,  Dz  } 
+{ leabE  , YXk,bb ,orj,w}  
+   { YXk ,  orj  ,   Dz    ,   khDCr}  
+##
+Wt = y
+y =  Ng   ^aW ^S       
+Ng   =o       ^wg 
+#
+{Wt  ,   y ,   aW  }  
+{    Ng  ,Wt  ,  S,   wg     , y  ,   o }
+   {     Wt ,y,  Ng,o  }
+ { Wt    ,  y,   aW}
+{Wt ,y ,Ng,wg }
+{Wt ,aW  ,S  } 
+##
+ BKsB =r  ^ pb
+  r=   k  ^ R  ^fZ
+   pb       =kZL     +   ?III
+#
+  {R,  r      , III   } 
+{BKsB  ,   r  ,    k  }
+{k,       kZL,       r ,  III }
+ {  k ,   III     , R , r         }   
+  {R ,fZ    , k}
+   {R   }     
+{ R, BKsB,  III       }
+   {  BKsB     ,     pb     ,III  } 
+##
+  hWb = UH  |   M   |C    
+ UH =    WNB|W |    E 
+ M=  gn  |  F  
+#
+{ hWb    , M ,    F } 
+##
+  ENRD=  BK  ^      L^v
+ BK= q 
+#
+{  q ,  BK     }
+##
+nXC     =j   +   ?eppHj + ?F 
+#
+{nXC   ,  j       ,F  } 
+{    eppHj    ,  nXC  } 
+{ eppHj , j  ,  F   , nXC    }
+{  nXC     , eppHj}
+ {  j ,nXC    }
+{        eppHj   } 
+   { nXC   ,j,   F    }
+##
+ N=  zz  
+zz   =  XlK  | q| X  
+#
+       { X ,   q  }
+{ X      , q  ,zz  }   
+{N , zz  , XlK   } 
+   { N  ,   zz ,XlK }     
+      {N }    
+{N}   
+{N  ,zz , XlK,q,X}
+{  X     ,   XlK  }
+##
+eLfm=   DXI 
+#
+{      eLfm    ,DXI  }
+{ DXI,eLfm    } 
+   {eLfm   ,DXI }
+##
+ Pmaq     =a
+#
+ {   a   ,  Pmaq} 
+   {   Pmaq    }  
+  { }
+{  Pmaq ,      a     }
+ {Pmaq ,   a  }
+  {Pmaq,  a   }
+{  }
+{Pmaq ,    a }
+{   Pmaq    , a } 
+##
+ oA       =kPB |    Ug 
+#
+ { } 
+##
+###

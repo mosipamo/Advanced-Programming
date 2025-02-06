@@ -11,7 +11,6 @@ FeatureNode::FeatureNode(const string& name, char relation, vector<shared_ptr<Fe
 bool FeatureNode::validate_node(const vector<string>& selected_features) {
     const shared_ptr<FeatureNode>& parent = this->get_parent();
     const string& parent_name = parent->get_name();
-
     auto it = find(selected_features.begin(), selected_features.end(), parent_name);
     if (it == selected_features.end()) {
         return false;
@@ -50,11 +49,3 @@ void FeatureNode::set_level(int level) {
 const int FeatureNode::get_level() const {
     return level;
 }
-
-MandatoryNode::MandatoryNode(const string& name) : FeatureNode(name, MANDATORY) {};
-
-OptionalNode::OptionalNode(const string& name) : FeatureNode(name, OPTIONAL) {};
-
-OrNode::OrNode(const string& name) : FeatureNode(name, OR) {};
-
-XorNode::XorNode(const string& name) : FeatureNode(name, XOR) {};
